@@ -1,0 +1,5 @@
+{
+  "name": "الباحث العلمي المطول",
+  "description": "An advanced Arabic research generator that prioritizes book sources (Al-Shamela, Google Books), strictly cites references with page numbers, and organizes content into precise academic structures.",
+  "requestFramePermissions": []
+}
